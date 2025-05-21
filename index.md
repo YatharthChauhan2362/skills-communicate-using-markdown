@@ -3,3 +3,5 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+![Image of Yatri](https://raw.githubusercontent.com/yatricloud/yatri-images/refs/heads/main/Logo/yatricloud-round-transparent.png)
